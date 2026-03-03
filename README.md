@@ -1,16 +1,38 @@
-## Hi there 👋
+#  Hola, soy Juan Pa
 
-<!--
-**Juanpa419/Juanpa419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería en Sistemas  
+💻 Apasionado por el desarrollo web  
+🚀 Aprendiendo HTML, Git y GitHub  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías que estoy usando
+
+- 🌐 HTML5
+- 🎨 CSS (en proceso)
+- 🐙 Git
+- ☁️ GitHub
+
+---
+
+## 📂 Proyectos
+
+🔹 Taller HTML - Programación 4  
+🔹 Trabajo colaborativo con Git  
+
+---
+
+## 📊 Mis estadísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+
+---
+
+## 🌎 Conectemos
+
+📧 Email: tuemail@ejemplo.com  
+💼 LinkedIn: (cuando lo tengas)
+
+---
+
+> “El código no se rinde, yo tampoco.” 💪
