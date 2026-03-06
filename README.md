@@ -26,7 +26,7 @@
 ## 🌎 Conectemos
 
 📧 Email: juanpablorangel419@gmail.com
-💼 LinkedIn: (cuando lo tengas)
+
 
 ---
 
